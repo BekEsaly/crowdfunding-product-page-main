@@ -30,9 +30,9 @@ radioBtn.forEach((btn,i)=>{
         
         })
         
-        btn.addEventListener('mouseout', ()=>{
+       /* btn.addEventListener('mouseout', ()=>{
             currentItem.classList.remove('active')
-        })
+        })*/
         
     })
 })
